@@ -1,0 +1,1 @@
+Suit recognition of a card pack using openCV and python.
